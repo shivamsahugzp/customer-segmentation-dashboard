@@ -1,7 +1,7 @@
 {
   "name": "config",
   "version": "1.0.0",
-  "updated": "2025-10-15T22:09:00.744627",
+  "updated": "2025-10-15T22:09:00.806463",
   "description": "Configuration file",
   "settings": {
     "debug": true,
